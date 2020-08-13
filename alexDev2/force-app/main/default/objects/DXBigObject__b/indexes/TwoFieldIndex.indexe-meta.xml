@@ -7,7 +7,7 @@
         </fields>
         <fields>
             <name>someshorttext__c</name>
-            <sortDirection>DESC</sortDirection>
+            <sortDirection>ASC</sortDirection>
         </fields>
         <label>TwoFieldIndex</label>
     </Index>
